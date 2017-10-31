@@ -63,8 +63,8 @@ public class Calculator extends Application{
 		HBox hb = new HBox();
 
 
-
-		equal.setText("=");
+		this is not correct code
+		equal.setTextASjsdhjk("=");
 		equal.setOnAction(new EventHandler<ActionEvent>() {
 
 			@Override
